@@ -1,2 +1,2 @@
 # odin-recipes
-Cuurent project as far as I am aware if to construct something where recipes will be invoved but also a way to teach me how to use git hub commits.
+Hello to whomever reads this.  Here's to my firt attempt at this project. I've been loving to learn about html and making this page. I attempted my best to use <b><i><em> and <strong> accordingly based of off the importance that what being conveyed. Hopefully I've nailed it but if not please let me know what I could improve. Thank you! -Barrett
