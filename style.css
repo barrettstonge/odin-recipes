@@ -2,5 +2,23 @@
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
-} 
+          background-color: orange;
+          font-family: 'Times New Roman', Times, serif; 
+          max-width: 600px;
+         margin: 0 auto;       
+    }
+ 
 
+
+.button {background-color: black;
+; padding: 0.2cm;}
+
+.hyper {color: black;}
+
+.head {font-size: 500%; }
+
+span {float: left;width: 200px;}
+
+ul {list-style-type: none;}
+
+h1 { text-align: center; }
